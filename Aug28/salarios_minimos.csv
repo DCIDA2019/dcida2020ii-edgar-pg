@@ -1,0 +1,7 @@
+,Partícula,Símbolo,(MeV),carga,Antipartícula
+0,electrón,,0.511,-e,"positrón,"
+1,positrón,,0.511,+e,"electrón,"
+2,protón,p,938.26,+e,"anti-protón,"
+3,neutrón,n,939.53,0,"anti-neutrón,"
+4,neutrino,,0.0,0,"anti-neutrino,"
+5,antineutrino,,0.0,0,"neutrino,"
