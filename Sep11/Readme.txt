@@ -1,0 +1,3 @@
+Ejercicio: En equipo seleccionar una base de datos 
+Tarea: Hacer el análisis descriptivo de esa base de datos... 
+
